@@ -67,6 +67,7 @@ Please restart Setting apps (or reboot the device) and set up apn for your SIM!
 
 ホームボタンを長押ししてタスクマネージャを表示し、Settings (環境設定) アプリを終了させるか、端末を再起動したら再度 Settings (環境設定) アプリ => Cellular & Data (携帯ネットワーク設定) => SIM1 => Data settings (データ通信設定) を開き、適切な APN 設定を選択またはカスタム設定を入力してください。
 
+![APN 設定画面](apn.png)
 
 ### FM ラジオを聞く
 
@@ -92,4 +93,6 @@ Please reboot the device and enjoy radio!
 ```
 
 端末を再起動してから FM Radio (FM ラジオ) アプリを起動すれば日本のラジオで使われるものを含めた周波数帯域 (76.0 MHz ~ 108.0 MHz) で設定できるようになります。
+
+![FM ラジオアプリ](fmradio.png)
 
