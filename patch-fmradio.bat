@@ -16,5 +16,5 @@ rem Remount file systems and push to the device
 adb shell mount -o remount rw /data
 adb push user.js /data/local/user.js
 
-# Reboot
+rem Reboot
 echo "Please reboot the device and enjoy radio!"
