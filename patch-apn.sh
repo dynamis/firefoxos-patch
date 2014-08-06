@@ -7,9 +7,9 @@ PATCHDIR=$BASEDIR
 TEMPDIR=$BASEDIR/temp
 
 # Gaia path for eng build
-GAIA_APP_INSTALL_PATH=/data/local/webapps
+#GAIA_APP_INSTALL_PATH=/data/local/webapps
 # Gaia path for user build
-#GAIA_APP_INSTALL_PATH=/system/b2g/webapps
+GAIA_APP_INSTALL_PATH=/system/b2g/webapps
 SETTINGS_APP_INSTALL_PATH=$GAIA_APP_INSTALL_PATH/settings.gaiamobile.org
 
 # temporary directory

@@ -2,9 +2,9 @@ set BASEDIR=%CD%
 set PATCHDIR=%BASEDIR%
 
 rem Gaia path for eng build
-set GAIA_APP_INSTALL_PATH=/data/local/webapps
+rem GAIA_APP_INSTALL_PATH=/data/local/webapps
 rem Gaia path for user build
-rem GAIA_APP_INSTALL_PATH=/system/b2g/webapps
+set GAIA_APP_INSTALL_PATH=/system/b2g/webapps
 set SETTINGS_APP_INSTALL_PATH=%GAIA_APP_INSTALL_PATH%/settings.gaiamobile.org
 
 rem pull, extract and edit apn.json file

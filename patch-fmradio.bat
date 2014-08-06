@@ -2,9 +2,9 @@ set BASEDIR=%CD%
 set PATCHDIR=%BASEDIR%
 
 rem Gaia path for eng build
-set GAIA_APP_INSTALL_PATH=/data/local/webapps
+rem GAIA_APP_INSTALL_PATH=/data/local/webapps
 rem Gaia path for user build
-rem GAIA_APP_INSTALL_PATH=/system/b2g/webapps
+set GAIA_APP_INSTALL_PATH=/system/b2g/webapps
 
 
 rem pull and edit config file
