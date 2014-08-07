@@ -76,12 +76,12 @@ Firefox OS 端末の FM ラジオで視聴できる周波数帯は OS の内部�
 
 Windows の場合:
 ```
-patch-apn.bat
+patch-fmradio.bat
 ```
 
 Mac / Linux の場合:
 ```
-./patch-apn.sh
+./patch-fmradio.sh
 ```
 
 端末中のユーザ設定ファイル (user.js) に FM ラジオの周波数帯設定 ([dom.fmradio.band](http://dxr.mozilla.org/mozilla-central/source/dom/fmradio/FMRadioService.cpp)) が追記され、次のように出力されます (Mac での出力例)。
